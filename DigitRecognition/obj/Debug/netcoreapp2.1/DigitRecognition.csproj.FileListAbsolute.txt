@@ -1,0 +1,11 @@
+E:\Users\Stephen\Applications\MyProgram\DigitRecognition\DigitRecognition\bin\Debug\netcoreapp2.1\DigitRecognition.deps.json
+E:\Users\Stephen\Applications\MyProgram\DigitRecognition\DigitRecognition\bin\Debug\netcoreapp2.1\DigitRecognition.runtimeconfig.json
+E:\Users\Stephen\Applications\MyProgram\DigitRecognition\DigitRecognition\bin\Debug\netcoreapp2.1\DigitRecognition.runtimeconfig.dev.json
+E:\Users\Stephen\Applications\MyProgram\DigitRecognition\DigitRecognition\bin\Debug\netcoreapp2.1\DigitRecognition.dll
+E:\Users\Stephen\Applications\MyProgram\DigitRecognition\DigitRecognition\bin\Debug\netcoreapp2.1\DigitRecognition.pdb
+E:\Users\Stephen\Applications\MyProgram\DigitRecognition\DigitRecognition\obj\Debug\netcoreapp2.1\DigitRecognition.csproj.CoreCompileInputs.cache
+E:\Users\Stephen\Applications\MyProgram\DigitRecognition\DigitRecognition\obj\Debug\netcoreapp2.1\DigitRecognition.AssemblyInfoInputs.cache
+E:\Users\Stephen\Applications\MyProgram\DigitRecognition\DigitRecognition\obj\Debug\netcoreapp2.1\DigitRecognition.AssemblyInfo.cs
+E:\Users\Stephen\Applications\MyProgram\DigitRecognition\DigitRecognition\obj\Debug\netcoreapp2.1\DigitRecognition.dll
+E:\Users\Stephen\Applications\MyProgram\DigitRecognition\DigitRecognition\obj\Debug\netcoreapp2.1\DigitRecognition.pdb
+E:\Users\Stephen\Applications\MyProgram\DigitRecognition\DigitRecognition\obj\Debug\netcoreapp2.1\DigitRecognition.csprojAssemblyReference.cache
